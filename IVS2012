@@ -1,0 +1,68 @@
+-PATROCINADOR/PATROCINADORES
+Nombre: Andres Cardenas
+Cargo : Gerente(dueño)
+Departamenteo/division: Gerencia
+Rama Ejecutiva: Director General
+
+///#############################################################################################################################################################///
+
+-PROPOSITO Y JUSTIFICACION DEL PROYECTO
+
+La tecnologia actualmente juega un papel fundamental en las organizaciones y Inversiones Cardenas 2012 C.A no se escapa de ella. es por ello que surge la necesidad
+en la empresa de sistematizar procesos que son llevados de forma manual, dichos procesos son los causantes de las problematicas por la cuala traviesa la empresa, ya
+que estos procesos general lentitud,duplicidad de datos y perdida de informacion, los procesos llevados de forma manual son la facturacion y inventario,al sistematizar
+dichos procesos se asegura que la eficiencia de la empresa se incrementara y se minimizarian los riesgos en la informacion procesada.
+
+En el mismo orden de ideas la problematica surge la necesidad de implantar un sistema de informacion que realize la facturacion e inventario y toda la informacion 
+permanesca en una base de datos como soporte de ventas y productos facturados, tambien los ingresos de la empresa y compras realizadas, es necesario la  elaboracion
+de un  proyecto en la empresa para asi lograr con exito la implantacion del sistema de informacion.
+
+-DESCRIPCION DEL PROYECTO
+
+El proyecto de sistematizacion sera implantado en organizacion Inversiones Cardenas 2012 C.A ubicada en la Av. 1 entre calles 3 y 4. La Mata Cabudare Edo Lara, siendo
+necesario usar los registros manuales llevados por la empresa para asi obtener una base de datos para la implantacion del sistema, dicha informacion contiene productos,
+precios,facturas,lista de proveedores entre otros.
+
+El sistema a implantantar sustituira los procesos llevados de forma manual en la empresa, el sistema constara con un registro y busqueda de productos, registro de
+clientes y proveedores, y facturacion, aportando al personal de la empresa un ambiente de trabajo mas comodo y eficiente.
+
+El sistema constara con un ambiente grafico amigable y de facil manejo para el trabajador,creando modulos de registros,facturacion y busqueda, el sistema constara con
+una base de dato de todos los productos en ventas, es decir se podra llevar un control en la cantidad de productos ubicados en el almacen y saber si es necesario
+realizar una compra al proveedor o no, se podran modificar los precios de los productos ya que es necesario estar en constante modificacion por la economia en la que 
+se mueve la empresa ya que los precios pueden variar repentinamente.
+
+-OBJETIVOS MEDIBLES DEL PROYECTO Y CRITERIOS DE EXITOS
+
+*Implantar un sistema de ambiente grafico amigable y de facil manejo para los trabajadores de la empresa.
+*Garantizar el buen funcionamiento del sistema y base de dato implantados en la empresa.
+*Desarrollar el proyecto en el lapso estimado de la contratacion siendo este no mayor a 4 meses.
+*Suplantar los procesos manuales de la empresa por procesos sistematizados dando este los resultados esperados.
+*Proveer la capacitacion para el manejo eficaz del sistema.
+
+
+-REQUERIMIENTOS DE ALTO NIVEL
+
+el proyecto consta de una serie de modulos que se iran desarrollando a lo largo del proyecto, estos modulos seran dividos en tres fases:
+
+Fase 1 registro de clientes:
+
+*solicitar datos de clientes antiguos para incluirlos en la base de dato del sistema.
+*demostrar el manejo facil y co
+
+-RIESGOS DE ALTO NIVEL
+*Deficienca en los dispositivos donde sera implantado el sistema, averia de algun ordenador o periferico a utilizar.
+*Problemas con el aprendizaje de los trabajadores trayendo esto como consecuencia retardo en la utilizacion del sistema.
+*fracmentacion de informacion al momento de ingresar datos al sistema y de esta manera no tener los datos necesarios de los clientes y productos existentes.
+*Vulnerabilidad en la utilizacion del sistema, es decir manejo por agentes externos a los autorizados a manejar el sistema.
+*Problemas en la estructura de la red interna ya existente.
+
+-AGENDA DE HITOS PRINCIPALES
+
+*En la primera semana del desarrollo del proyecto sera necesario realizar todo el levantamiento de informacion.
+*Programar entrevistas con el personal y gerencia de la empresa para estructurar las necesidades y implantarlas en el sistema.
+*de la semana 3 a 4 es necesario exponer el prototipo del sistema a implantar a la gerencia de la empresa.
+*Posterior a la muestra del prototipo es necesario hacer las modificaciones si son necesarias.
+*en el mes 3 realizar todas las pruebas necesarias para el perfecto funcionamiento del sistema.									
+*posterior a las pruebas funcionales realizar el llenado de la base de dato del sistema.			
+*Realizar capacitación al personal autorizado para el manejo del sistema.
+*el proyecto debe estar en total funcionamiento en la empresa para la fecha 01/02/2015.
